@@ -1,6 +1,8 @@
 # RegressionCofeeRoastingQuality
 Regression to find what temperature creates best quality of coffee beans
 
+DataSet: https://drive.google.com/file/d/19fXoA9Tfiff0ybI8briDsAheb_WdRpYN/view?usp=drive_link
+
 Findings:
 
 Random forest regressor provides the best results with 90% R-squared and 3.7 MAE, hence this model can be used further for predictions.
